@@ -1,0 +1,4 @@
+interface:
+  display_name: "元杰写论文"
+  short_description: "从真实研究材料组织论文，起草章节并检查论证、图表和表达"
+  default_prompt: "请用 $yuanjie-write-paper 整理这些研究材料，建立论证主线并完成本次起草或修改任务。"

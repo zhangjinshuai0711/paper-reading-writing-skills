@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "scope": "Public package structure, metadata, relative links, absence of private course media, and install layout.",
+  "private_course_materials": "excluded from this repository",
+  "historical_local_full_package_validation": "The local full package separately preserved 369 page records, five transcript copies, and unchanged source hashes; those original assets are not redistributed here."
+}

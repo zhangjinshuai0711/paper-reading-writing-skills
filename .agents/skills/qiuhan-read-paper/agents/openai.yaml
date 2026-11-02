@@ -1,0 +1,4 @@
+interface:
+  display_name: "邱寒读论文"
+  short_description: "按课程方法读懂问题、机制与证据，评价论文价值并支持逐章教学"
+  default_prompt: "请用 $qiuhan-read-paper 分析这篇论文，讲清核心逻辑、方法输入输出和证据边界。"
