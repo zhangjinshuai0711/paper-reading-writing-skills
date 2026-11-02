@@ -21,7 +21,7 @@
 
 需要 Python 3 和能够加载本地 Skill 的 Codex。技能本身不需要 API Key、额外模型或 Python 依赖；Python 仅用于安装与结构检查。
 
-先克隆仓库，或在 Releases 下载分享包并解压：
+先克隆仓库，也可以在 GitHub 的 Code 菜单中选择 Download ZIP 后解压：
 
 ```bash
 git clone https://github.com/zhangjinshuai0711/paper-reading-writing-skills.git
